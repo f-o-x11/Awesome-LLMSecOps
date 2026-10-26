@@ -540,6 +540,7 @@
 | [📄 Practical AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/) | Meta | 2025 |
 | [📄 Security Advisory: Anthropic's Slack MCP Server Vulnerable to Data Exfiltration](https://embracethered.com/blog/posts/2025/security-advisory-anthropic-slack-mcp-server-data-leakage/) | Embrace The Red | 2025 |
 | [📄 ClawHub By The Numbers: What 52,652 Skills Reveal](https://trent.ai/blog/clawhub-by-the-numbers/) | Trent AI | 2026 |
+| [📄 Agent Skill Security: What We Found Scanning 105 Skill Repos and MCP Servers](https://upskill.coach/research/agent-skill-security) | Avatar 8 LLC | 2026 |
 
 ## 🎓 Tutorials
 
